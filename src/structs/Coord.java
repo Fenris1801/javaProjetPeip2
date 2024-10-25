@@ -2,7 +2,7 @@ package src.structs;
 
 import static java.lang.Math.*;
 
-class Coord {
+public class Coord {
     private int x;
     private int y;
 
