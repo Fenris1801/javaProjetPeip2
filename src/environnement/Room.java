@@ -18,5 +18,4 @@ public class Room {
     public Coord getBottomRight() {
         return bottomRight;
     }
-
 }
